@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background: url("../images/pattern-background-desktop.svg") no-repeat center center/cover;
+    text-transform: capitalize;
+    background-color: hsl(225, 100%, 94%);
+
+}
+.main{
+   width: 350px;
+   height: auto;
+   margin: 20px auto;
+   align-items: center;
+ 
+}
+.main-img img{
+    width: 350px;
+    border-radius: 0.7rem 0.7rem 0 0;
+}
+
+.main-text{
+    text-align: center;
+    background-color: white;
+    margin-top: -25px;
+}
+
+.summary h1{
+    color: hsl(223, 47%, 23%);
+    font-size: 30px;
+    font-weight: 900;
+}
+.summary p{
+     padding: 0 30px;
+    
+     color: hsl(224, 23%, 55%);
+}
+.annual{
+    display: flex;
+    justify-content: space-around;
+    background-color:  hsl(225, 100%, 98%);
+    border-radius: 1rem;
+    margin: 0 30px;
+    padding: 20px 0;
+}
+    
+.plan{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.plan-one{
+    position: relative;
+    top: -1.3rem;
+    right: -1rem;
+}
+.plan-one h5{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+#icon{
+    background-color:  hsl(224, 23%, 55%);
+    color: hsl(223, 47%, 23%);
+    padding: 10px;
+    border-radius: 2rem;
+}
+.link a{
+    color: hsl(245, 75%, 52%);
+    text-decoration: underline hsl(223, 47%, 23%);
+    font-size: 14px;
+    font-weight: 900;
+}
+.button{
+    display: inline-block;
+}
+.btn{
+    width: 270px;
+    margin: 30px 0;
+    padding: 10px 0;
+    border-radius: .5rem;
+    background-color: hsl(245, 75%, 52%);
+    color: #fff;
+    border: none;
+   box-shadow: 0 8px 16px 0 hsl(224, 23%, 55%);
+    
+}
+.cancel{
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+    font-weight: 900;
+    position: relative;
+    top: -1.3rem;
+}

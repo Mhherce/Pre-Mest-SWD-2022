@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:url("./logog.png") center center/cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.logo img{
+  width: 300px;
+}
+
+
+.logo{
+  color: aquamarine;
+  display: flex;
+}
+
+.logo h2{
+  font-size: 6rem;
+  text-transform: capitalize;
+}
+.title h1{
+  color: white;
+  font-size: 6rem;
+  text-transform: capitalize;
+}
+
+.navbar{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+.main{
+  color: white;
+  font-size: 7rem;
+  margin: 2rem 10rem;
+  text-transform: capitalize;
+}
+.main li{
+  list-style: none;
+  padding: 0 3rem;
+
+}
+
+.main h2{
+  font-size: 14rem;
+}
+ul li::before{
+  content: "\2022";
+  color: aquamarine;
+  width: 1rem;
+  font-size: 12rem;
+  padding: 10px 25px;
+ 
+}

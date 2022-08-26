@@ -4,10 +4,113 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
+ 
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.img img{
+  width: 200px;
+  height: auto;
+  margin:10px 0 10px 100px;
+ 
+}
+
+.img{
+    background-color: white;
+    box-shadow: 6px 6px 3px rgb(234, 224, 224);
+  
+}
+
+
+.home{
+   display: flex;
+   justify-content: center;
+   margin-top: 40px;
+}
+
+#about{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 200px;
+}
+
+#about h1{
+  font-size: 4rem;
+  text-transform: capitalize;
+}
+
+#about p{
+  font-size: 1.6rem;
+  margin-top: -25px;
+  text-align: justify;
+ 
+}
+
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.card{
+  margin: 30px 40px;
+}
+
+#tittle{
+  position: relative;
+  bottom: -5rem;
+  right: -3rem;
+  background: white;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+}
+
+.p-one{
+  display: flex;
+  
+}
+.p-one img{
+  height: 30px;
+  margin-right: 10px;
+  margin-top: -.3rem;
+}
+
+ .p-one p{
+  font-size: 1.5rem;
+  margin-top: -.5rem;
+} 
+
+#rate{
+  font-weight: lighter;
+}
+
+.p-two{
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  margin-top: -2rem;
+}
+
+.p-three{
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  margin-top: -.8rem;
+  
+}
+
+#card-p{
+  font-weight: bolder;
+}
+
+#hero{
+  position: relative;
+  top: -2.5rem;
 }

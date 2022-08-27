@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mhherce/Pre-Mest-SWD-2022.git/static/css/main.ce103250.css",
+    "main.js": "/Mhherce/Pre-Mest-SWD-2022.git/static/js/main.6e93496e.js",
+    "static/js/787.d3befce1.chunk.js": "/Mhherce/Pre-Mest-SWD-2022.git/static/js/787.d3befce1.chunk.js",
+    "static/media/Group 77.png": "/Mhherce/Pre-Mest-SWD-2022.git/static/media/Group 77.63ffcab23c59952505ba.png",
+    "static/media/image11.png": "/Mhherce/Pre-Mest-SWD-2022.git/static/media/image11.91964e92bd0473f2e81e.png",
+    "static/media/wedding-photography 1.png": "/Mhherce/Pre-Mest-SWD-2022.git/static/media/wedding-photography 1.9ff25b6971291fe14365.png",
+    "static/media/mountain-bike 1.png": "/Mhherce/Pre-Mest-SWD-2022.git/static/media/mountain-bike 1.6ba709420db48ce26839.png",
+    "index.html": "/Mhherce/Pre-Mest-SWD-2022.git/index.html",
+    "main.ce103250.css.map": "/Mhherce/Pre-Mest-SWD-2022.git/static/css/main.ce103250.css.map",
+    "main.6e93496e.js.map": "/Mhherce/Pre-Mest-SWD-2022.git/static/js/main.6e93496e.js.map",
+    "787.d3befce1.chunk.js.map": "/Mhherce/Pre-Mest-SWD-2022.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce103250.css",
+    "static/js/main.6e93496e.js"
+  ]
+}
